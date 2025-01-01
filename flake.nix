@@ -2,7 +2,7 @@
   description = "hyprscroller";
 
   inputs.hyprland = {
-    url = "github:hyprwm/Hyprland/v0.46.1?submodules=1";
+    url = "github:hyprwm/Hyprland/main?submodules=1";
   };
 
   outputs =
